@@ -1,4 +1,4 @@
-import{r as Fs,j as Ut,m as fn}from"./index-XzTUkNvo.js";/**
+import{r as Fs,j as Ut,m as fn}from"./index-DSd_21gU.js";/**
  * @license
  * Copyright 2010-2024 Three.js Authors
  * SPDX-License-Identifier: MIT

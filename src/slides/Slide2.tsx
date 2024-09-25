@@ -115,7 +115,7 @@ const Slide2 = () => {
               className="w-32 h-32 md:w-48 md:h-48 flex-shrink-0"
             >
               <img
-                src="/about.jpg"
+                src="/el-cezeri/about.jpg"
                 alt="El-Cezeri"
                 className="w-full h-full object-cover rounded-2xl shadow-lg"
               />

@@ -106,7 +106,7 @@ const Slide1 = () => {
           className="w-1/2 pl-8 flex justify-center"
         >
           <img
-            src="/pfp.jpg"
+            src="/el-cezeri/pfp.jpg"
             alt="El-Cezeri"
             className="w-80 h-80 object-cover shadow-2xl rounded-lg"
           />

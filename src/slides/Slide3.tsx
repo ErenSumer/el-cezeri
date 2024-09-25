@@ -14,7 +14,7 @@ const innovations: Innovation[] = [
   {
     id: 1,
     title: "Filli Su Saati",
-    image: "/Filli-Su-Saati.jpg",
+    image: "/el-cezeri/Filli-Su-Saati.jpg",
     shortDescription: "El-Cezeri'nin ünlü Filli Su Saati.",
     fullDescription:
       "Filli Su Saati El-Cezeri'nin en ünlü icatlarından biri, Filli Su Saati'dir. Bu saat, hem mühendislik harikası hem de estetik açıdan etkileyici bir eserdir. Su akışını kullanarak çalışan saat, farklı zaman dilimlerinde sesli uyarılar vererek zamanın geçtiğini bildirir. İçindeki mekanizmalar, saatin işleyişini su seviyesindeki değişikliklere göre düzenler. Bu saat, sadece teknik bir başarı değil, aynı zamanda dönemin sanatsal ve kültürel değerlerini de yansıtır.",
@@ -22,7 +22,7 @@ const innovations: Innovation[] = [
   {
     id: 2,
     title: "Otomatik Abdest Alma Makinesi",
-    image: "/otomatik-abdest.jpg",
+    image: "/el-cezeri/otomatik-abdest.jpg",
     shortDescription: "El-Cezeri'nin otomatik abdest alma makinesi.",
     fullDescription:
       "El-Cezeri, suyun mekanik kullanımı üzerine yaptığı çalışmalarla tanınır. En dikkat çeken icatlarından biri, otomatik abdest alma makinesidir. Bu cihaz, suyu belirli bir miktarda ve uygun bir şekilde döken bir sistemle çalışır. El-Cezeri'nin bu projesi, günlük dini ritüellerin teknolojik bir çözümle nasıl kolaylaştırılabileceğine dair erken bir örnek sunar.",
@@ -30,7 +30,7 @@ const innovations: Innovation[] = [
   {
     id: 3,
     title: "Otomatik Su Dağıtma Makinesi",
-    image: "/hydraulic.jpg",
+    image: "/el-cezeri/hydraulic.jpg",
     shortDescription:
       "El-Cezeri'nin mühendislik harikası; Otomatik Su Dağıtma Sistemi.",
     fullDescription:

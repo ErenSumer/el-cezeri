@@ -103,7 +103,7 @@ const Slide6 = () => {
             variants={itemVariants}
             className="text-3xl text-white mb-4"
           >
-            Sebahattin Deha
+            Sebahattin Deha Bodur
           </motion.p>
           <motion.p
             variants={itemVariants}

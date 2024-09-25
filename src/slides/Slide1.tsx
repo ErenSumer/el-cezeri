@@ -96,7 +96,7 @@ const Slide1 = () => {
           </h2>
           <h1 className="text-6xl font-bold mb-4 text-white">El-Cezeri</h1>
           <p className="text-xl text-gray-400">
-          Zeynep Türk, Sebahattin Deha, Meryem Betül Çakır, Uraz Erselih
+          Zeynep Türk, Sebahattin Deha Bodur, Meryem Betül Çakır, Uraz Erselih
           </p>
         </motion.div>
         <motion.div
